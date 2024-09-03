@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.oleo-script-regular {
+    font-family: "Oleo Script", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.oleo-script-bold {
+    font-family: "Oleo Script", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+  
